@@ -45,7 +45,7 @@
 
 
     
-    "marked": "0.3.5",
+    "marked": "0.8.2",
     "method-override": "latest",
     "moment": "2.15.1",
     "mongodb": "^3.5.9",
