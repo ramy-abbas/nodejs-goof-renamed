@@ -30,7 +30,7 @@
 
   
   "dependencies": {
-    "body-parser": "1.9.0",
+    "body-parser": "1.20.2",
     "cfenv": "^1.0.4",
     "consolidate": "0.14.5",
     "dustjs-helpers": "1.5.0",
